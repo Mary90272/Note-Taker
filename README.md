@@ -8,6 +8,7 @@ Also the application is deployed on Heroku. you can find links below.
 -Download or clone repository<br>
 -Node.js is required to run the application<br>
 -npm install to install the required npm packages<br>
+-npm install express<br>
  Open VsCode Terminal<br>
 -npm start<br>
 -You can see message "App listening on PORT 3001"<br>
