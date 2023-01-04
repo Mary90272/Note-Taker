@@ -18,3 +18,5 @@ Also the application is deployed on Heroku. you can find links below.
 ![alt text](assets/images/Screenshot_1.png)
 ![alt text](assets/images/Screenshot_2.png)
 ## Relevant Links
+Deployed Application: https://nameless-crag-27411.herokuapp.com/
+GitHub Repo:
